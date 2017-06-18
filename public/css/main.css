@@ -1,0 +1,15 @@
+body {
+  font-family: a_Campus;
+  font-size: 24px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  min-width: 100%;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNzcy9tYWluLnN0eWwiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRSxzQkFBQTtFQUNBLGdCQUFBO0VBQ0EscUJBQUE7RUFBQSxxQkFBQTtFQUFBLGNBQUE7RUFDQSwwQkFBQTtNQUFBLDhCQUFBO0VBQ0EsMEJBQUE7TUFBQSx1QkFBQTtVQUFBLG9CQUFBO0VBQ0EsZ0JBQUEiLCJmaWxlIjoiY3NzL21haW4uY3NzIiwic291cmNlc0NvbnRlbnQiOlsiYm9keVxuICBmb250LWZhbWlseSBhX0NhbXB1c1xuICBmb250LXNpemUgMjRweFxuICBkaXNwbGF5IGZsZXhcbiAganVzdGlmeS1jb250ZW50IHNwYWNlLWFyb3VuZFxuICBhbGlnbi1pdGVtcyBjZW50ZXJcbiAgbWluLXdpZHRoIDEwMCVcbiJdfQ== */
